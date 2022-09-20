@@ -39,9 +39,8 @@ Video calllink: https://meet.google.com/xsb-owps-pwp
 
 [NKUST](http://www.nkust.edu.tw)
 
+![NKUST](nkust.png)
 ```
-
-![NKUST](nkust.png "NKUST")
 
 - [ ] todo list
 - [ ] 2nd
