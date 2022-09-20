@@ -38,3 +38,16 @@ Video calllink: https://meet.google.com/xsb-owps-pwp
 4. gggg
 
 [NKUST](http://www.nkust.edu.tw)
+
+```
+
+![NKUST](nkust.png "NKUST")
+
+- [ ] todo list
+- [ ] 2nd
+- [X] done
+
+```python
+s = "this is a example"
+print(s)
+```
